@@ -1,5 +1,5 @@
 # THIS IS BULLS AND COWS!
-#### Video Demo:  <https://youtu.be/kfv36ZVk5BQ>
+
 #### Description:
 Hi! I am Andrés Suárez, the developer behind this project. Short presentation: I am 23 years old and come from Bogotá, Colombia.
 So, my project is a web application of one of my favorites childhood games. bulls and cows! it was developed with flask, following the next structure:
